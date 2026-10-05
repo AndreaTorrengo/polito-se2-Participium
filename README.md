@@ -1,4 +1,6 @@
-# Software Engineering || - group-2
+# Software Engineering II - group-2 - Participium
+
+teaser trailer: [https://youtu.be/jDYzJGgjz-o](https://youtu.be/jDYzJGgjz-o)
 
 team members:
 
